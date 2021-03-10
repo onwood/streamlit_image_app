@@ -3,7 +3,7 @@ import os
 from PIL import Image, ImageFilter, ImageEnhance
 from datetime import datetime
 
-# 깃 연동
+# 깃 연동 테스트
 
 # 이미지 파일 다양하게 편집
 
