@@ -3,6 +3,8 @@ import os
 from PIL import Image, ImageFilter, ImageEnhance
 from datetime import datetime
 
+# 깃 연동
+
 # 이미지 파일 다양하게 편집
 
 def load_image(image_file):
